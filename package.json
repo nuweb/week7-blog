@@ -1,0 +1,16 @@
+{
+  "name": "week7-blog",
+  "version": "0.0.0",
+  "description": "A blog in mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandra Sekhar Veera",
+  "license": "BSD",
+  "dependencies": {
+    "mongoose": "~3.6.20",
+    "express": "~3.4.0",
+    "jade": "~0.35.0"
+  }
+}
